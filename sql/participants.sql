@@ -1,0 +1,22 @@
+-- INSERT USERS 
+INSERT INTO users (name)
+VALUES ('Michael Kimutai'),
+    ('Zubeida Ali'),
+    ('Samuel Kiptoo'),
+    ('Cynthia Wanjiru'),
+    ('Kelvin Mwangi'),
+    ('Salim Mwanaisha'),
+    ('Peter Njoroge'),
+    ('Janet Atieno'),
+    ('Victor Kiplangat'),
+    ('Eunice Nyambura'),
+    ('Collins Ouma'),
+    ('Linet Jepchirchir'),
+    ('George Maina'),
+    ('Nancy Wambui'),
+    ('Allan Omondi'),
+    ('Grace Chebet'),
+    ('John Kamau'),
+    ('Beatrice Moraa'),
+    ('Dennis Odhiambo'),
+    ('Joyce Nekesa');
